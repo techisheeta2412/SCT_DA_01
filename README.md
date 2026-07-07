@@ -5,6 +5,8 @@
 This project presents an interactive Sales Dashboard developed using Microsoft Excel to analyze Superstore sales data. The dashboard provides a clear overview of sales performance, profitability, quantity sold, and regional performance.
 
 The project focuses on transforming raw sales data into meaningful business insights using Excel data analysis and visualization techniques.
+<img width="1245" height="360" alt="image" src="https://github.com/user-attachments/assets/7a0c7ac8-d4e8-454e-9f43-b32788bb369a" />
+<img width="1187" height="395" alt="image" src="https://github.com/user-attachments/assets/12584c8c-ac6d-41e3-b0df-bdd7d74c74af" />
 
 ## 🎯 Project Objective
 
